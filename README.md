@@ -15,9 +15,7 @@ gcc -o number_guessing number_guessing.c
 ```
 
 **Concepts:**
-- Random numbers<img width="458" height="481" alt="numguess" src="https://github.com/user-attachments/assets/62724935-9af9-40da-9124-3c247019ce6e" />
-<img width="458" height="481" alt="numguess" src="https://github.com/user-attachments/assets/a5072732-b914-43d0-b95f-a73946ef7dc2" />
-
+- Random numbers
 - Loops (while)
 - If-else conditions
 - User input/output
